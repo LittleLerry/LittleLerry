@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CSCI3151 Project Say-Hi Issue Link: https://github.com/csci3251-2023/Say-Hi/issues/101
+### CSCI3151 Project Say-Hi Issue Link: https://github.com/csci3251-2023/Say-Hi/issues/101
